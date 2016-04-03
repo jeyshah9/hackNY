@@ -8,10 +8,13 @@
     "email": "jeyshah9@gmail.com"
   },
   "dependencies": {
+    "edit-google-spreadsheet": "^0.2.21",
+    "ejs": "2.4.1",
     "express": "3.4.4",
-    "ejs": "*",
+    "google-spreadsheet": "^2.0.1",
     "mongodb": "2.1.14",
     "mongojs": "2.3.0",
+    "nodemon": "^1.9.1",
     "stylus": "*"
   }
 }
